@@ -1,1 +1,12 @@
-Maps created from the ISTAT database released on 30.12.2020
+Maps and lists of excess mortality created from the ISTAT database released on 30.12.2020
+-----------------------------------------------------------------------------------------
+
+Maps are in .png format; lists are in .xls format.
+
+Filenames are structured as follows:
+region_sexageclass_initialdate_finaldate
+
+ITA is used for Italy; F, M, T are used for females, males and total.
+
+As an example, the file "Lom_T80120_01102020_31102020_list.xls" includes excess mortality results for Lombardy, Total 80-120 years, in the period October 1st 2020 to October 31st 2020.
+
